@@ -1,1 +1,3 @@
 # venti
+
+programming chip
